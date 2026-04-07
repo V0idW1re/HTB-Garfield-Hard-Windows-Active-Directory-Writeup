@@ -2,7 +2,7 @@
 ## Hack The Box — Garfield (Hard, Windows, Active Directory)
 
 **Date:** April 8, 2026  
-**Tester:** [Your Name]  
+**Tester:** V0idW1re  
 **Classification:** CTF/Educational Lab Report
 
 ---
